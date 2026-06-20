@@ -1,0 +1,13 @@
+{
+  "title": "embedded EdTech",
+  "summary": "Completed deep research on embedded EdTech across four search angles: integration/LMS embedding, learning-in-the-flow-of-work, embedded-systems hardware education, and K-12/higher-ed market trends. Synthesized a thorough text answer covering three major meanings of \"embedded\" (workflow integration, platform/API embedding, and embedded-systems pedagogy), implementation evidence, challenges, and market direction. Verified 11 of 15 key source URLs; avoided citing dead/blocked links. Deliverable: answer only (no report, diagram, slides, or PDFs).",
+  "artifacts": [],
+  "assumptions": [
+    "\"Embedded EdTech\" has no single canonical definition; the answer prioritizes the most common industry usage—learning and educational technology embedded into daily work, teaching practice, and existing software platforms—while also covering embedded-systems/IoT education and embedded analytics/API integrations as secondary but valid interpretations.",
+    "Audience scope spans K-12, higher education, and corporate/workforce learning unless a segment is explicitly distinguished.",
+    "Market statistics from industry reports (e.g., Vista Point, Mordor Intelligence) are treated as directional indicators rather than peer-reviewed evidence.",
+    "Sources flagged as dead links by verify_sources (RAND 403, SHRM/Instructure SSL errors, STMicroelectronics timeout) were excluded from citations despite appearing in search results."
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-14T07:03:16.083218+00:00"
+}

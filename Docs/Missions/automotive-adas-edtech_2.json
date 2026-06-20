@@ -1,0 +1,14 @@
+{
+  "title": "Automotive ADAS EdTech",
+  "summary": "Mapped the automotive ADAS EdTech landscape as a workforce-enablement market driven by surging ADAS adoption, calibration complexity, and a documented skills-delivery gap. Major positioning clusters: (1) industry credentialing bodies (I-CAR, ASE-affiliated programs), (2) diagnostic/calibration equipment vendors bundling digital training (Autel, THINKCAR), (3) OEM/Tier-1 simulation and validation platforms (Hyundai Mobis, AB Dynamics), and (4) dealer- and state-funded apprenticeship pathways. Key trends: routine post-repair ADAS calibration, blended equipment-plus-eLearning models, and regional workforce coordination failures despite abundant content. Opportunities include certification platforms, simulation-based upskilling, and dealer/OEM-sponsored pipelines; risks include $10K–$20K equipment barriers, OEM fragmentation, rapid tech obsolescence, and paywalled proprietary training. Deliverable: text answer only (no report/diagram/slides/PDFs).",
+  "artifacts": [],
+  "assumptions": [
+    "'ADAS EdTech' interpreted as education and training technology for ADAS-related automotive skills (technician calibration/diagnostics, collision repair, and engineering validation)—not general K-12 or consumer driver-education apps.",
+    "Overview depth: business stakeholder summary rather than granular market sizing or vendor financials.",
+    "Geographic emphasis follows available 2025–2026 news sources: primarily North America and Europe, with APAC noted where data appeared.",
+    "Where market-size figures appear (e.g., GlobeNewswire/Exactitude), treated as analyst/marketing estimates, not audited financials.",
+    "Pure-play ADAS-only EdTech vendors are scarce; analysis includes adjacent players that bundle training with equipment, simulation, or credentialing."
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-14T06:43:10.875267+00:00"
+}

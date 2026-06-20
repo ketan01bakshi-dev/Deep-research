@@ -1,0 +1,24 @@
+{
+  "title": "How the Human Body Digests Dietary Protein",
+  "summary": "Completed deep research on human dietary protein digestion covering gastric, pancreatic, and brush-border phases; amino acid and peptide absorption; and comparative digestion kinetics of whey (fast), casein (slow), and plant proteins (variable). Deliverables: text answer, expanded report (MD/DOCX), mind map PNG, 9-slide deck with embedded mind map, and 4 downloaded PDFs. Six peer-reviewed/government sources cited; success criteria met.",
+  "artifacts": [
+    "Docs/Reports/how-the-human-body-digests-dietary-protein_2.md",
+    "Docs/Reports/how-the-human-body-digests-dietary-protein_2.docx",
+    "Docs/Diagrams/human-dietary-protein-digestion-mindmap_2.png",
+    "Docs/Slides/human-dietary-protein-digestion.pptx",
+    "Docs/Papers/pdf.pdf",
+    "Docs/Papers/JNHFE-14-00382.pdf",
+    "Docs/Papers/2605.27459.pdf",
+    "Docs/Papers/A1_vs_A2-type_Beta_Casein_Understanding_the_Difference_in_Dairy_Proteins.pdf"
+  ],
+  "assumptions": [
+    "Adult human physiology in healthy individuals with intact digestive function",
+    "Mixed-meal context unless comparing isolated protein supplements",
+    "Bovine dairy whey and casein as reference for fast vs slow animal proteins",
+    "Plant protein comparison uses common supplemental sources (soy, pea, rice, blends) rather than every whole-food matrix",
+    "Digestibility figures refer to processed isolates/concentrates where noted; whole-food plant matrices may digest more slowly",
+    "Deep report expanded in markdown after initial create_research_report call due to JSON payload limits in the tool"
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-13T03:13:58.273775+00:00"
+}

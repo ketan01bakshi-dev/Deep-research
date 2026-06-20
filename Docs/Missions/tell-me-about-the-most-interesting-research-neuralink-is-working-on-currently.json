@@ -1,0 +1,13 @@
+{
+  "title": "tell me about the most interesting research neuralink is working on currently",
+  "summary": "Completed deep synthesis of Neuralink's current research portfolio (Telepathy/PRIME clinical trials, Blindsight visual prosthesis, CONVOY robotic control, VOICE speech decoding, and core N1/R1 platform engineering) using five general-mode literature searches. Deliverable was answer-only; no report, diagram, slides, or PDF artifacts were created.",
+  "artifacts": [],
+  "assumptions": [
+    "'Currently' is interpreted as publicly reported work through late 2025 and early 2026.",
+    "Focus is on Neuralink's disclosed clinical programs and engineering directions rather than long-term consumer 'mind meld' speculation.",
+    "Information is drawn from company updates, regulatory designations, and credible tech/health journalism; Neuralink publishes limited peer-reviewed data, so clinical claims are treated as early-stage unless independently validated.",
+    "The most 'interesting' research is ranked by scientific ambition and near-term clinical impact, not commercial hype."
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-13T05:51:30.758163+00:00"
+}

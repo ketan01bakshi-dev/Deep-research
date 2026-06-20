@@ -1,0 +1,25 @@
+[project]
+name = "cursor-agent-core"
+version = "0.1.0"
+description = "Shared Cursor SDK infrastructure for D:\\Agents SDK agents"
+requires-python = ">=3.10"
+dependencies = [
+    "cursor-sdk>=0.1.0",
+    "certifi>=2024.0.0",
+    "python-pptx>=1.0.0",
+    "python-docx>=1.1.0",
+    "markdown>=3.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["cursor_agent_core*"]

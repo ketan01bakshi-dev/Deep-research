@@ -1,0 +1,20 @@
+{
+  "topic": "How the human body digests dietary protein",
+  "field": "nutrition / physiology",
+  "objectives": [
+    "Explain the path from ingestion to amino acid absorption",
+    "Cover stomach, pancreatic, and brush-border enzyme roles",
+    "Compare whey, casein, and plant protein digestion speed"
+  ],
+  "deliverables": ["answer", "report", "mindmap", "slides", "papers"],
+  "audience": "informed lay reader",
+  "depth": "deep",
+  "scope": "Human adults; focus on established physiology",
+  "constraints": "Prefer peer-reviewed and government sources",
+  "success_criteria": [
+    "At least 5 credible sources cited",
+    "Report saved to Docs/Reports/",
+    "Mind map PNG saved to Docs/Diagrams/",
+    "Slide deck saved to Docs/Slides/"
+  ]
+}

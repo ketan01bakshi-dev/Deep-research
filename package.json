@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "description": "Mermaid CLI for deep-research diagram rendering",
+  "scripts": {
+    "setup:diagrams": "puppeteer install chrome-headless-shell"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^11.4.0",
+    "puppeteer": "^24.0.0"
+  }
+}

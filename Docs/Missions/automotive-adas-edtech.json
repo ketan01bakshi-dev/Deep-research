@@ -1,0 +1,13 @@
+{
+  "title": "Automotive ADAS Edtech",
+  "summary": "Completed overview of automotive ADAS education technology for business stakeholders. Mapped major players across collision-repair training (I-CAR, ASE), diagnostic OEM edtech sponsors (Autel, TOPDON), and engineering simulation vendors (Vector, Qualcomm). Synthesized 2025–2026 trends: ADAS ubiquity driving calibration training demand, skills-gap delivery bottlenecks, apprenticeship/digital pipeline models, and high equipment costs. Identified opportunities (B2B2C tool-education bundles, insurer-driven compliance training, EU NCAP-driven upskilling) and risks (workforce shortage, tech obsolescence, liability, fragmented standards). Six targeted news searches; 11 of 14 cited URLs verified live.",
+  "artifacts": [],
+  "assumptions": [
+    "'ADAS Edtech' covers education technology for servicing, calibrating, and developing ADAS—not consumer marketing of ADAS features alone.",
+    "Primary geographic focus is North America and Europe, with Asia-Pacific noted where news coverage appeared.",
+    "Market sizing figures from syndicated research press releases are treated as directional analyst estimates, not audited financials.",
+    "Standalone pure-play ADAS edtech startups are scarce; the market is dominated by industry associations, vocational programs, and diagnostic OEM training arms—this structural pattern is treated as a finding, not a data gap."
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-14T06:29:49.161593+00:00"
+}

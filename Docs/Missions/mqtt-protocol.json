@@ -1,0 +1,13 @@
+{
+  "title": "MQTT Protocol",
+  "summary": "Completed overview research on MQTT with emphasis on telemetry for business stakeholders. Ran 4 targeted general-mode searches, verified 8 primary source URLs (7 OK, 1 Cisco link flagged due to SSL verification failure). Deliverable: text answer only — no report, mindmap, slides, or PDFs created.",
+  "artifacts": [],
+  "assumptions": [
+    "Telemetry refers to remote measurement and streaming of device/sensor data (IoT and industrial contexts), not clinical patient monitoring specifically.",
+    "Audience needs business value, architecture, and adoption context rather than implementation-level protocol details.",
+    "General IoT and Industrial IoT use cases represent the primary telemetry scenarios unless otherwise specified.",
+    "Cisco MQTT overview was excluded from citations due to verify_sources dead-link/SSL failure; content corroborated via HiveMQ, AWS, EMQX, and Symestic sources."
+  ],
+  "success_criteria_met": true,
+  "completed_at": "2026-06-13T17:35:26.443986+00:00"
+}
